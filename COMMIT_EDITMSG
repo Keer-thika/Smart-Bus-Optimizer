@@ -1,0 +1,10 @@
+Improve bus card display with updated occupancy and status visuals
+
+Refactor BusCard component in artifacts/smartbus/src/components/BusCard.tsx to enhance visual representation of bus occupancy and status indicators.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 457a589d-9a29-49fd-aaa3-5c25908b40fe
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 6a793747-c177-428e-9804-350e4f0db95e
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/db9218f2-9085-41e9-8e5c-c1b8beb3d83c/457a589d-9a29-49fd-aaa3-5c25908b40fe/8AvLbxX
+Replit-Helium-Checkpoint-Created: true
